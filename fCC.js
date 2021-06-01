@@ -27,3 +27,10 @@ b = a;
  */
 
 // ==================== COMPLETE
+
+// challenge 5
+// add 2 numbers w JS
+/* 
+var sum = 10 + 10 
+*/
+// ==================== COMPLETE
