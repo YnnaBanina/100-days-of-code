@@ -12,10 +12,18 @@ comment */
 // Challenge 3
 // Storing values with assignment operator
 /* 
-// Setup
 var a;
-
-// Only change code below this line
 a = 7; 
 */
+// ==================== COMPLETE
+
+// challenge 4
+// assigning the calue of one variable to another
+/* 
+var a; 
+a = 7
+var b; 
+b = a; 
+ */
+
 // ==================== COMPLETE
