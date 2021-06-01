@@ -7,3 +7,15 @@ comment */
 // Challenge 2
 //  Declare JavaScript VariablesPassed
 // var myName;
+// ==================== COMPLETE
+
+// Challenge 3
+// Storing values with assignment operator
+/* 
+// Setup
+var a;
+
+// Only change code below this line
+a = 7; 
+*/
+// ==================== COMPLETE
